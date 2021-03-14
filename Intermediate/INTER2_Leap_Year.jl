@@ -1,8 +1,8 @@
+# Write a program that takes the duration of a year (in fractional days) for an imaginary planet as
+# an input and produces a leap-year rule that minimizes the difference to the planet’s solar year.
 
 planets = [["Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn", "Uranus", "Neptune", "Pluto"],
 	  [87.97, 224.70, 365.2422, 1.88, 11.86, 29.46, 84.01, 164.79, 248.59 ]]
-
-
 
 function leapYear(num)
     y = 0
